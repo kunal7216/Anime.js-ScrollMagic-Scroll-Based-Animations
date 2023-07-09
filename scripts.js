@@ -1,3 +1,4 @@
+
 // Add active class to current nav selected link
 var a = document.querySelectorAll(".navbar li a");
 for (var i = 0, length = a.length; i < length; i++) {
